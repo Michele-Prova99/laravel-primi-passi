@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+footer {
+  background-color: white;
+}
+
+main {
+  background-image: url(/images/pasta.jpg?7c271c79463eec85e709c780bca7a155);
+}
+
+main img {
+  width: 250px;
+}
+
